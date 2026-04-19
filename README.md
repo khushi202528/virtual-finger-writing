@@ -93,4 +93,4 @@ This project uses the MediaPipe hand-tracking solutions API. For best compatibil
 
 ## Author
 
-Khushi
+Khushi Kumari
